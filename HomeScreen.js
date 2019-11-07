@@ -28,7 +28,7 @@ const HomeScreen = ({ navigation }) => {
     },
     {
       title: "Cash",
-      icon: "home"
+      icon: "camera"
     },
     {
       title: "Debit card use abroad",
@@ -36,7 +36,7 @@ const HomeScreen = ({ navigation }) => {
     },
     {
       title: "Connections",
-      icon: "camera"
+      icon: "home"
     },
     {
       title: "Payconiq",

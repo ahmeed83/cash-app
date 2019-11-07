@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@haskkor/react-native-pincode": "^1.21.1",
     "@react-native-community/masked-view": "^0.1.4",
     "@react-navigation/core": "^5.0.0-alpha.20",
     "@react-navigation/native": "^5.0.0-alpha.14",
